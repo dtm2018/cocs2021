@@ -1043,6 +1043,20 @@ a {
 .cid-sf9jSpWHz2 {
   background-image: url("../../../assets/images/p1-2000x1333.jpg");
 }
+.cid-sffAchAE06 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-sffAchAE06 .line {
+  background-color: #4479d9;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sffAchAE06 .mbr-text {
+  color: #353535;
+}
 .cid-sf9zG4iuTQ {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1082,7 +1096,7 @@ a {
   object-fit: cover;
 }
 .cid-sf9zG4iuTQ .card-title {
-  color: #232323;
+  color: #4479d9;
 }
 .cid-sf9BlyiXvh {
   padding-top: 2rem;
@@ -1118,6 +1132,9 @@ a {
 .cid-sf9BlyiXvh .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-sf9BlyiXvh .card-title {
+  color: #4479d9;
 }
 .cid-sfdSroY3Lo {
   padding-top: 2rem;
@@ -1157,10 +1174,16 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sfdSroY3Lo .card-title {
+  color: #4479d9;
+}
 .cid-sfelXvghz2 {
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #ffffff;
+}
+.cid-sfelXvghz2 .mbr-section-subtitle {
+  color: #4479d9;
 }
 .cid-sfefsD5Mge {
   padding-top: 2rem;
@@ -1200,6 +1223,9 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sfefsD5Mge .card-title {
+  color: #4479d9;
+}
 .cid-sf9MsknfJr {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1230,6 +1256,9 @@ a {
   background-color: transparent;
   margin-bottom: 0;
 }
+.cid-sf9MsknfJr H3 {
+  color: #4479d9;
+}
 .cid-sf9Xc3JWre {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1258,6 +1287,10 @@ a {
 }
 .cid-sf9Xc3JWre .btn-social:hover i.socicon {
   color: #ffffff !important;
+}
+.cid-sf9Xc3JWre .mbr-section-title,
+.cid-sf9Xc3JWre .mbr-social-likes {
+  color: #232323;
 }
 .cid-sf9IGrjXjY {
   padding-top: 3rem;
@@ -1310,6 +1343,9 @@ a {
     width: 100%;
     height: auto;
   }
+}
+.cid-sf9IGrjXjY H3 {
+  color: #4479d9;
 }
 .cid-sf9OUt2FEo {
   padding-top: 2rem;
@@ -1369,6 +1405,9 @@ a {
   .cid-sfebI2fvLY .card {
     max-width: 12.5%;
   }
+}
+.cid-sfebI2fvLY .mbr-section-title {
+  color: #4479d9;
 }
 .cid-sffjTZM4tU {
   padding-top: 4rem;
