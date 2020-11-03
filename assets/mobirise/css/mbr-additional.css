@@ -819,7 +819,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sf9ikqUmLK .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.3rem);
   }
 }
 .cid-sf9ikqUmLK .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1384,6 +1384,28 @@ a {
 }
 .cid-sf9OUt2FEo .justify-content-center {
   align-items: center;
+}
+.cid-sffNpqH0vv {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #bed3f9;
+}
+.cid-sffNpqH0vv .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-sffNpqH0vv .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
 }
 .cid-sfebI2fvLY {
   padding-top: 2rem;
