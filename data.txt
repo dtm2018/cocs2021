@@ -1,0 +1,5 @@
+[0-9]{3}-[0-9]{3}-[0-9]{4}
+
+.{10,}
+
+<div mbr-buttons="true" mbr-theme-style="display-4" data-toolbar="-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd" class="col-12 col-md-auto mbr-section-btn"><a type="submit" class="btn btn-primary" data-app-placeholder="Type Text"><span class="mobi-mbri mobi-mbri-share mbr-iconfont mbr-iconfont-btn"></span>SUBMIT&nbsp;</a></div>
